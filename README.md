@@ -4,6 +4,20 @@
 ====== COVID-19 in North East England =====
                         GSS_CD TotalCases
 GSS_NM                                   
+Newcastle upon Tyne  E08000021        518
+Gateshead            E08000037        253
+North Tyneside       E08000022        284
+South Tyneside       E08000023        123
+Sunderland           E08000024        356
+Northumberland       E06000057        344
+County Durham        E06000047        519
+
+Update: 2020-04-11
+===========================================
+
+====== COVID-19 in North East England =====
+                        GSS_CD TotalCases
+GSS_NM                                   
 Newcastle upon Tyne  E08000021        493
 Gateshead            E08000037        247
 North Tyneside       E08000022        276
